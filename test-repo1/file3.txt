@@ -1,5 +1,0 @@
-start with file3
-
-started component 1
-
-started component 2
